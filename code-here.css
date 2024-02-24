@@ -1,0 +1,48 @@
+#classic {
+    font-weight: bold;
+    padding: 20px 20px 0px 20px;
+}
+
+#modern {
+    background-color: gold;
+    text-align: center;
+    padding: 20px 20px 0px 20px;
+}
+
+#impact {
+    text-align: center;
+    background-color: mediumspringgreen;
+    border: 20px solid black;
+    border-style: double;
+    padding: 10px;
+    font-size: 1.2em;
+}
+
+#elise {
+    text-align: center;
+    background-color: rgb(242, 237, 229);
+    padding: 30px;
+    border: 10px solid burlywood;
+    border-style: double inset groove;
+    font-family: cursive;
+    font-size: 1.2em;
+}
+
+#one, #two  {
+    display: inline-block;
+    margin-left: 50px;
+    padding: 20px;
+    text-align: center;
+    background-color: lightgreen;
+    border: 10px solid aqua;
+    box-shadow: 5px 5px grey;
+    border-style: groove;
+}
+
+#gaudi {
+    background-color: peachpuff;
+    padding: 20px;
+    text-align: center;
+    border-radius: 0px 40px 0px 40px;
+    box-shadow: 5px 5px black;
+}
